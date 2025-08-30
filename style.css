@@ -1,0 +1,24 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: rgb(57, 205, 57);
+}
+
+h1 {
+    text-align: center;
+}
+
+.kapibara {
+    margin-left: 200px;
+}
+
+footer {
+    background-color: rgb(28, 152, 28);
+    padding: 5px;
+}
+
+footer p {
+    margin: 10px;
+}
